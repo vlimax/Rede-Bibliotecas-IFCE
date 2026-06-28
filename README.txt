@@ -1,4 +1,4 @@
-Esse projeto de Análise de Dados Busca fazer uma análise do acervo de livros disponível para os discentes no Instituto Federal do Ceará, além de cruzar com os PUDs das disciplinas dos campi, a fim de verificar se os acervos atendem a demanda de materiais acadêmicos, além de identificar outros padrões.
+Esse projeto busca fazer uma análise do acervo de livros disponível para os discentes no Instituto Federal do Ceará, além de cruzar com os PUDs das disciplinas dos campi, a fim de verificar se os acervos atendem a demanda de materiais acadêmicos, além de identificar outros padrões.
 
 A os dados foram extraídos do Portal de Dados Abertos, atualizados em 11/2025:
 
